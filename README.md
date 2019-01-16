@@ -18,7 +18,7 @@
 
 - GAN  
 팀장 : 김현규  
-팀원 : 김정태 
+팀원 : 김정태 윤나라
   
 - Reinforcement learning  
 팀장 : 홍인기  
